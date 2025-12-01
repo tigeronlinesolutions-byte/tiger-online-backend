@@ -1,0 +1,13 @@
+{
+  "name": "tiger-online-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^11.10.1",
+    "razorpay": "^2.9.2"
+  }
+}
